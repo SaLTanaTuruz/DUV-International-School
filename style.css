@@ -1,0 +1,67 @@
+.logo{
+ align-items: center;
+ display: flex;
+ padding: 0px;
+ margin-top: 0px;
+}
+body{
+    background-color: rgb(205, 242, 255);
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}  
+#birthdays {
+    text-align: center;
+    margin-top: 50px;
+}
+h2{
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+h3{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.testi{
+    background-color: rgb(243, 255, 192);
+}
+#foot{
+    background-color: rgb(181, 210, 173);
+}
+#intro{
+    font-weight: bold;
+    font-size: 15px;
+    color: #300d1cd6;
+}
+#heading{ font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-left: 25rem;
+}
+h3{
+    background-color:#f6bbc3;
+}
+#para{
+    color: black;
+    font-size: 13px;
+}
+#de{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(1, 1, 10);
+
+}
+h4{
+    font-size: 20px;
+    background-color: black;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-size: cover;
+    color: white;
+
+}
